@@ -1,4 +1,4 @@
-иблиотеки
+# импортируем библиотеки
 from flask import Flask, request, jsonify
 import logging
 
